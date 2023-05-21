@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-scheduler/kube-scheduler:v1.27.2
+FROM k8s.gcr.io/pause/pause:3.9
