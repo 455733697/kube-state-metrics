@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.21.0
+FROM k8s.gcr.io/coredns/coredns:v1.8.0
